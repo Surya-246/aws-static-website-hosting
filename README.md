@@ -50,7 +50,7 @@ Used the S3 Website Endpoint to access the website publicly.
 ![Hosting](screenshots/static-website-hosting-enabled.png)
 
 ### Live Website
-![Website](screenshots/live-static-website.png)
+![Website](screenshots/live-static-web.png)
 
 ## Result
 Successfully deployed a static website using Amazon S3 and made it publicly accessible through the S3 website endpoint.
