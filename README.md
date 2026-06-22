@@ -1,3 +1,6 @@
+#INTERN DETAILS 
+   NAME : SURYA R M
+   INTERN_ID : CITS4229
 # AWS Static Website Hosting
 
 ## Objective
